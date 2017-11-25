@@ -1,0 +1,2 @@
+jlnn: https://github.com/celsius38/NN.jl
+factorization machine: https://github.com/celsius38/FactorizationMachine
